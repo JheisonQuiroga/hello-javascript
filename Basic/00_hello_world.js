@@ -1,3 +1,11 @@
+/* 1. HISTORIA 
+JavaScript Por lo general conocido como JS, es un lenguaje creado en el año
+1995 por Brendan EIch, creado en 10 dias con una sintaxis similar a la de Java y
+C++. Es un lenguaje que se puede ejecutar en los navegadores y que domina la WEB. 
+JavaScript es un lenguaje de programación orientado a objetos POO y de tipado 
+dinámico.
+*/
+
 // COMENTARIOS
 
 /*
@@ -19,3 +27,5 @@ código.
 // Nuestro primer Hola Mundo
 
 console.log("Hello World")
+console.log("Hello", "World", "!")
+
